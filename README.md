@@ -17,7 +17,7 @@ Nosso site será dedicado a uma **sapataria**, oferecendo uma experiência atrae
 
 ---
 
-## 🚀 Objetivo do Projeto  
+## 🚀 Objetivo do Projeto 
 
 - Desenvolver um site completo utilizando um modelo do **[HTML5 UP](https://html5up.net/)**.  
 - Personalizar o site para representar uma sapataria fictícia, com produtos, história e contato.  
